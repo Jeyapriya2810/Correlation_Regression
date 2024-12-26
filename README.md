@@ -1,4 +1,12 @@
 # Correlation and regression for data analysis
+**EXP NO: 3**
+
+**JEYAPRIYA J ( 24004150 )**
+
+**DATE : 26/10/2024**
+
+
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
